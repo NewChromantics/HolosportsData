@@ -2,5 +2,9 @@
 	"PenaltySpotNorth": [
 		0.08875,
 		0.32930051453205395
+	],
+	"SixYardNorthForwardEast": [
+		0.074375,
+		0.25513373197978956
 	]
 }
