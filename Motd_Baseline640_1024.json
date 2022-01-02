@@ -22,5 +22,9 @@
 	"EighteenYardNorthRearWest": [
 		0.39185393258426965,
 		0.5414415546341668
+	],
+	"EighteenYardNorthForwardEast": [
+		0.547752808988764,
+		0.6861833563680529
 	]
 }
