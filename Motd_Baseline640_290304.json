@@ -2,5 +2,9 @@
 	"SixYardNorthForwardEast": [
 		0.6418539325842697,
 		0.4103699603284436
+	],
+	"SixYardNorthForwardWest": [
+		0.23595505617977527,
+		0.6140787895562321
 	]
 }
