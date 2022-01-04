@@ -14,5 +14,9 @@
 	"EighteenYardNorthForwardEast": [
 		0.41292134831460675,
 		0.20370882922778855
+	],
+	"PenaltyCircleNorthWest": [
+		0.14325842696629212,
+		0.37600083186024746
 	]
 }
