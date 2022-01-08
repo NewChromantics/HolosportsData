@@ -18,5 +18,9 @@
 	"SixYardNorthForwardWest": [
 		0.2133938706015891,
 		0.6080918820151396
+	],
+	"PenaltyCircleNorthWest": [
+		0.7741203178206584,
+		0.664891673192378
 	]
 }
