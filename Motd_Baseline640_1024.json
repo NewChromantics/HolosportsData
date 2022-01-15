@@ -1,18 +1,6 @@
 {
-	"SixYardNorthForwardEast": [
-		0.05555555555555555,
-		0.2739754633255025
-	],
-	"EighteenYardNorthForwardEast": [
-		0.3945868945868946,
-		0.2238580005220569
-	],
-	"PenaltyCircleNorthEast": [
-		0.28062678062678065,
-		0.29068128425998435
-	],
-	"PenaltyCircleNorthWest": [
-		0.13247863247863248,
-		0.3975985382406682
+	"CornerNorthEast": [
+		0.20363164721141375,
+		0.14367006003654398
 	]
 }
